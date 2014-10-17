@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfl:home|Door43 (mfl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfl|d43-mfl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfl/archive/master.zip|d43-mfl.zip]]
+
+**Recent Changes**
+{{changes>ns = mfl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfl|Ethnologue data]]
+
